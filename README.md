@@ -3,4 +3,4 @@ Hi, I'm [Danill Yudhistira](https://danill123.github.io/portofolio/), a passiona
 - 👯 I’m looking to collaborate on Writing about Web Development & Mobile Application
 - 📫 How to reach me: [Here!](mailto:danillyudhistira@gmail.com)
 - 😄 Linkedin : https://www.linkedin.com/in/danill-yudhistira-46861b187/
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.dart`, `.java`, `.jsx`
+- ⚙️ Which I use : `.php`, `.js`, `.html`, `.css`, `.dart`, `.java`, `.jsx`
